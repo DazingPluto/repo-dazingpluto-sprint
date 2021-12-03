@@ -1,0 +1,26 @@
+{
+  "name": "repo-dazingpluto-sprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DazingPluto/repo-dazingpluto-sprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DazingPluto/repo-dazingpluto-sprint/issues"
+  },
+  "homepage": "https://github.com/DazingPluto/repo-dazingpluto-sprint#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "sequelize": "^6.12.0-alpha.1"
+  }
+}
